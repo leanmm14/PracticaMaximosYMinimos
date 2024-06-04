@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestMinimos" project="PracticaMaximosYMinimos" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="test.TestMinimos" time="0.001" displayname="TestMinimos" uniqueid="[engine:junit-jupiter]/[class:test.TestMinimos]">
+    <testcase name="testMinimoDe2EnterosPositivos" classname="test.TestMinimos" time="0.001" displayname="testMinimoDe2EnterosPositivos()" uniqueid="[engine:junit-jupiter]/[class:test.TestMinimos]/[method:testMinimoDe2EnterosPositivos()]"/>
+    <testcase name="testMinimoDe3EnterosPositivos" classname="test.TestMinimos" time="0.0" displayname="testMinimoDe3EnterosPositivos()" uniqueid="[engine:junit-jupiter]/[class:test.TestMinimos]/[method:testMinimoDe3EnterosPositivos()]"/>
+  </testsuite>
+</testrun>
